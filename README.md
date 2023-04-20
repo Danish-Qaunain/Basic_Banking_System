@@ -48,5 +48,5 @@ http://localhost/Basic_Banking_System
 - On the `Customer` page you can see all the bank's existing customers from the database we imported before.
 - Here you can Choose the sender of the money below and proceed by clicking `Confirm`.
 - On the `Transaction` page you can select whom to transfer the money on `Receiver` tab and the amount to be transferred on `Amount` tab.
-- Click `Send Money` to transfer the money or `Cancel Transaction` to cancel the transaction
+- Click `Send Money` to transfer the money or `Cancel Transaction` to cancel the transaction.
 - visit the `Transaction History` to view past transactions.
