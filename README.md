@@ -29,14 +29,14 @@ Flow: Home Page> View Customers> Send Money> Transfer History.
 
 ## Installation
 - Install XAMPP on your device.
-- Download this project, rename the main folder from `BasicBankingSystem-main
+- Download this project, rename the main folder from Basic_Banking_System.
 - Now place in your XAMPP-->htdocs folder
 
 ``````````````
 Example:
 C:\xampp\htdocs\Basic_Banking_System
 ``````````````
-- Open up the XAMPP Control Panel by searching in the windows search and start the Apache & MySQL modules.
+- Open up the XAMPP Control Panel by searching in the windows search and start the Apache .
 
 ## How_To_Run
 -
